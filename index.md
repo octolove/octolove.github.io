@@ -20,4 +20,4 @@
 5. 角色分配菜单
 
 ##demo页面
-1. ![平台展示](https://github.com/octolove/octolove.github.io/blob/master/pt001.jpg)
+1. ![平台展示](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt001.jpg)
