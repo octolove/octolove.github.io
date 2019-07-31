@@ -19,7 +19,7 @@
 4. 根据用户权限显示权限按钮
 5. 角色分配菜单
 
-##demo页面
+##页面
 1. ![平台展示](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt002.jpg)
 2. ![平台展示2](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt003.jpg)
 3. ![平台展示3](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt001.jpg)
