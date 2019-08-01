@@ -21,5 +21,6 @@
 
 ##页面
 1. ![平台展示](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt002.jpg)
-2. ![平台展示2](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt003.jpg)
-3. ![平台展示3](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt001.jpg)
+2. ![平台展示2](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo1.jpg)
+3. ![平台展示3](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo2.jpg)
+3. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo3.jpg)
