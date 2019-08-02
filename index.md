@@ -19,9 +19,11 @@
 4. 根据用户权限显示权限按钮
 5. 角色分配菜单
 6. 导入导出,富文本编辑
+7. G2图表
 
 ##页面
 1. ![平台展示](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt002.jpg)
 2. ![平台展示2](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo1.jpg)
 3. ![平台展示3](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo2.jpg)
-3. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo3.jpg)
+4. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo3.jpg)
+5. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo5.jpg)
