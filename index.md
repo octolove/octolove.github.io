@@ -18,6 +18,7 @@
 3. 根据用户权限展示菜单列表
 4. 根据用户权限显示权限按钮
 5. 角色分配菜单
+5. 导入导出,富文本编辑
 
 ##页面
 1. ![平台展示](https://raw.githubusercontent.com/octolove/octolove.github.io/master/pt002.jpg)
