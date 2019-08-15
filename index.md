@@ -27,7 +27,3 @@
 3. ![平台展示3](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo2.jpg)
 4. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo3.jpg)
 5. ![平台展示4](https://raw.githubusercontent.com/octolove/octolove.github.io/master/demo5.jpg)
-
-<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-<span data-hk-page="current"> - </span>
